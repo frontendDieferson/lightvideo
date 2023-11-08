@@ -43,11 +43,11 @@ Obtenha as credenciais do seu projeto
 
 Crie um arquivo .env na pasta raiz do projeto e adicione as seguintes variáveis de ambiente:
 
-`FIREBASE_API_KEY="[sua-api-key]"
-FIREBASE_AUTH_DOMAIN="[seu-auth-domain]"
-FIREBASE_DATABASE_URL="[seu-database-url]"
-FIREBASE_PROJECT_ID="[seu-project-id]"
-FIREBASE_STORAGE_BUCKET="[seu-bucket-de-armazenamento]"`
+`FIREBASE_API_KEY="[sua-api-key]"`
+`FIREBASE_AUTH_DOMAIN="[seu-auth-domain]"`
+`FIREBASE_DATABASE_URL="[seu-database-url]"`
+`FIREBASE_PROJECT_ID="[seu-project-id]"`
+`FIREBASE_STORAGE_BUCKET="[seu-bucket-de-armazenamento]"`
 
 ### Execução da aplicação:
 
